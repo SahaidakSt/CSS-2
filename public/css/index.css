@@ -146,7 +146,7 @@
 
   який змінює колір тексту на білий та фоновий колір на жовтий при активному стані */
 
-.lesson-four-task-nineteen .btn-group:focus-within button {
+.lesson-four-task-nineteen button:focus-within {
   color: white;
   background-color: yellow;
 }
